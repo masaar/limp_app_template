@@ -54,7 +54,7 @@ __pycache
 
 # Project specific
 packages/*
-!packages/mathaaq
+!packages/PROJECT_NAME
 logs/*
 !logs/.gitkeep
 tests/*
