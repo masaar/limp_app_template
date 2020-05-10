@@ -33,7 +33,7 @@ config = PACKAGE_CONFIG(
 		# '...':'...'
 	},
 	# Define ADMIN password that will be used to generate the hashes
-	admin_password='S0ME_V3RY_STR0NG_P@SSW0RD',
+	admin_password='S0mE_V3Ry_STR0nG_P@SsW0rD',
 	# Define ANON token. This token is used as salt across LIMP framework so it is very good idea to change it from default token
 	# anon_token= '__ANON_TOKEN_f00000000000000000000012',
 	# Define default privileges any authenticated user is having
